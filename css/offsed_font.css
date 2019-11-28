@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'Myriad Pro Regular';
+  src: url('../Klavika-Medium/MyriadPro-Regular.eot');
+  src: url('../Klavika-Medium/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+url("../Klavika-Medium/MyriadPro-Regular.woff2") format("woff2"), /* chrome、firefox */
+  url('../Klavika-Medium/MyriadPro-Regular.woff') format('woff'),
+  url('../Klavika-Medium/MyriadPro-Regular.ttf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+  }
+@font-face {
+  font-family: "KlavikaMedium-Plain";
+  src: url("../Klavika-Medium/acac70fdb7ecef747e2185d85dbbbbfd.eot"); /* IE9*/
+  src: url("../Klavika-Medium/acac70fdb7ecef747e2185d85dbbbbfd.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../Klavika-Medium/acac70fdb7ecef747e2185d85dbbbbfd.woff2") format("woff2"), /* chrome、firefox */
+  url("../Klavika-Medium/acac70fdb7ecef747e2185d85dbbbbfd.woff") format("woff"), /* chrome、firefox */
+  url("../Klavika-Medium/acac70fdb7ecef747e2185d85dbbbbfd.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../Klavika-Medium/acac70fdb7ecef747e2185d85dbbbbfd.svg#KlavikaMedium-Plain") format("svg"); /* iOS 4.1- */
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ZurichBt";
+  src: url("../Klavika-Medium/ZurichBoldBT.eot"), /* IE6-IE8 */
+  url("../Klavika-Medium/ZurichBoldBT.woff2") format("woff2"), /* chrome、firefox */
+  url("../Klavika-Medium/ZurichBoldBT.woff") format("woff"), /* chrome、firefox */
+  url("../Klavika-Medium/ZurichBoldBT.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../Klavika-Medium/ZurichBoldBT.svg") format("svg"); /* iOS 4.1- */
+  font-weight: normal;
+  font-style: normal;
+
+}
+  @font-face {
+  font-family: "Arial MT";
+  src: url("../Klavika-Medium/16063.eot"), /* IE6-IE8 */
+  url("../Klavika-Medium/16063.woff2") format("woff2"), /* chrome、firefox */
+  url("../Klavika-Medium/16063.woff") format("woff"), /* chrome、firefox */
+  url("../Klavika-Medium/16063.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../Klavika-Medium/16063.svg") format("svg"); /* iOS 4.1- */
+  font-weight: normal;
+  font-style: normal;
+  }
+
+  @font-face {
+  font-family: "Zurich BT - Roman Condensed";
+  src: url("../Klavika-Medium/ZurichBT-RomanCondensed.eot"), /* IE6-IE8 */
+  url("../Klavika-Medium/ZurichBT-RomanCondensed.woff2") format("woff2"), /* chrome、firefox */
+  url("../Klavika-Medium/ZurichBT-RomanCondensed.woff") format("woff"), /* chrome、firefox */
+  url("../Klavika-Medium/ZurichBT-RomanCondensed.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../Klavika-Medium/ZurichBT-RomanCondensed.svg") format("svg"); /* iOS 4.1- */
+  font-weight: normal;
+  font-style: normal;
+  }
+  @font-face {
+  font-family: "Arial-BoldMT";
+  src: url("../Klavika-Medium/Arial-BoldMT.eot"), /* IE6-IE8 */
+  url("../Klavika-Medium/Arial-BoldMT.woff2") format("woff2"), /* chrome、firefox */
+  url("../Klavika-Medium/Arial-BoldMT.woff") format("woff"), /* chrome、firefox */
+  url("../Klavika-Medium/Arial-BoldMT.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../Klavika-Medium/Arial-BoldMT.svg") format("svg"); /* iOS 4.1- */
+  font-weight: normal;
+  font-style: normal;
+  }
+  @font-face {
+  font-family: "Arial-ItalicMT";
+  src: url("../Klavika-Medium/Arial-ItalicMT.eot"), /* IE6-IE8 */
+  url("../Klavika-Medium/Arial-ItalicMT.woff2") format("woff2"), /* chrome、firefox */
+  url("../Klavika-Medium/Arial-ItalicMT.woff") format("woff"), /* chrome、firefox */
+  url("../Klavika-Medium/Arial-ItalicMT.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../Klavika-Medium/Arial-ItalicMT.svg") format("svg"); /* iOS 4.1- */
+  font-weight: normal;
+  font-style: normal;
+  }
